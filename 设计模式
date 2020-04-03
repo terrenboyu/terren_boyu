@@ -1,3 +1,8 @@
 代理模式
 https://www.cnblogs.com/fingerboy/p/5335328.html
 ：模板类通过包含核心类的对象，并在方法中封装核心类的核心方法来将核心业务与辅助业务分离。
+
+UML
+各种关系的强弱顺序：
+泛化 = 实现 > 组合 > 聚合 > 关联 > 依赖 
+https://www.cnblogs.com/itplay/p/10671715.html
